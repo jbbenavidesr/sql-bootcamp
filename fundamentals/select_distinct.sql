@@ -1,0 +1,4 @@
+SELECT DISTINCT rating
+FROM film;
+SELECT COUNT(DISTINCT rating)
+FROM film;
